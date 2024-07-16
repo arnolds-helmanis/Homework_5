@@ -26,6 +26,3 @@ public class PracticalWork4 {
 	}
 
 }
-
-//Izveidot metodi areArrayTotalsEqual(), kam tiek padoti divi parametri - masīvi.
-//Metode atgriež true, ja abu masīvu summas un garumi ir vienādi.
